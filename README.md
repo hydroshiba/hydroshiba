@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/hydroshiba.svg)](https://codeforces.com/profile/hydroshiba)
+[![LeetCode](https://cp-logo.vercel.app/leetcode/hydroshiba?logo=true)](https://leetcode.com/hydroshiba)
 [![AtCoder](https://badges.joonhyung.xyz/atcoder/hydroshiba.svg?logo=https://img.atcoder.jp/assets/logo.png)](https://atcoder.jp/users/hydroshiba)
 
 - 🦭 I'm Minh, a sophomore at VNUHCM - University of Science.
